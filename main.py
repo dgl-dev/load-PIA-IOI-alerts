@@ -44,7 +44,8 @@ parse_wrk_list
         j = i + 1
         while "Type" not in wrk_list[j]:
             # print(f"wrk_list[j]: {wrk_list[j]}")
-            alert_buf.append(wrk_list[j])
+            wotab = wrk_list[j].replace('\t', ' ') # <<<<<< clear tabs
+            alert_buf.append(wotab)     # <<<<<
             j += 1
         process_alert(alert_buf)        # process one alert
         alert_buf = []
