@@ -1,0 +1,17 @@
+Type	Symbol	Option	Alert Date	Entry Date	Reference Price	Position Status	Closed Date
+Bull Put Spread	CAG	See Below	12/06/21	(new)	$31.78	New	TBD
+Entry Order:
+Sell To Open CAG DEC 32 PUT
+Buy To Open CAG DEC 31 PUT
+@ 0.60 CR, LIMIT ORDER
+Good for the week
+Credit Received	Margin Required	ROI
+$60	$40	150%
+
+Expiration Date: December 17, 2021
+
+Actual Entry Price: TBD CR
+
+Outcome: TBD
+
+Notes: This is a new entry alert.

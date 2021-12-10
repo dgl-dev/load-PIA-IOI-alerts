@@ -1,0 +1,492 @@
+Type	Symbol	Option	Alert Date	Entry Date	Reference Price	Position Status	Closed Date
+Bull Put Spread	PENN	See Below	11/29/21	10/25/21	$77.70	Closed
+11/29/21
+Entry Order:
+Sell To Open PENN NOV 80 PUT
+Buy To Open PENN NOV 75 PUT
+@ 3.00 CR, LIMIT ORDER
+Good for the week
+Credit Received	Margin Required	ROI
+$300	$200	150%
+
+Expiration Date: November 19, 2021
+
+Actual Entry Price: 3.00 CR
+
+Outcome: This position expired at the maximum loss.
+
+Type	Symbol	Option	Alert Date	Entry Date	Reference Price	Position Status	Closed Date
+Bull Put Spread	SO	See Below	11/29/21	9/27/21	$64.42	Closed
+11/29/21
+Entry Order:
+Sell To Open SO NOV 65 PUT
+Buy To Open SO NOV 62.50 PUT
+@ 1.25 CR, LIMIT ORDER
+Good for the week
+Credit Received	Margin Required	ROI
+$125	$125	100%
+
+Expiration Date: November 19, 2021
+
+Actual Entry Price: 1.25 CR
+
+Outcome: This position expired at a $1.08 loss ($2.33 Debit Paid - $1.25 credit received = $1.08 loss)
+
+Type	Symbol	Option	Alert Date	Entry Date	Reference Price	Position Status	Closed Date
+Bull Put Spread	CSCO	See Below	11/15/21	10/11/21	$55.14	Closed
+11/15/21
+Entry Order:
+Sell To Open CSCO NOV 55 PUT
+Buy To Open CSCO NOV 52.50 PUT
+@ 1.25 CR, LIMIT ORDER
+Good for the week
+Credit Received	Margin Required	ROI
+$125	$125	100%
+
+Expiration Date: November 19, 2021
+
+Actual Entry Price: 1.25 CR
+
+Outcome: This position was closed at $0.25 Debit for a nice profit. ($1.25 credit received - $0.25 debit paid = $1.00 profit)
+
+Type	Symbol	Option	Alert Date	Entry Date	Reference Price	Position Status	Closed Date
+Bull Put Spread	GOLD	See Below	11/15/21	10/25/21	$19.13	Closed
+11/15/21
+Entry Order:
+Sell To Open GOLD NOV 20 PUT
+Buy To Open GOLD NOV 19 PUT
+@ 0.60 CR, LIMIT ORDER
+Good for the week
+Credit Received	Margin Required	ROI
+$60	$40	150%
+
+Expiration Date: November 19, 2021
+
+Actual Entry Price: 0.60 CR
+
+Outcome: This position was closed at $0.12 Debit for a nice profit. ($0.60 credit received - $0.12 debit paid = $0.48 profit)
+
+Type	Symbol	Option	Alert Date	Entry Date	Reference Price	Position Status	Closed Date
+Bull Put Spread	PAAS	See Below	11/15/21	11/08/21	$26.03	Closed
+11/15/21
+Entry Order:
+Sell To Open PAAS NOV 26 PUT
+Buy To Open PAAS NOV 25 PUT
+@ 0.60 CR, LIMIT ORDER
+Good for the week
+Credit Received	Margin Required	ROI
+$60	$40	150%
+
+Expiration Date: November 19, 2021
+
+Actual Entry Price: 0.60 CR
+
+Outcome: This position was closed at $0.12 Debit for a nice profit. ($0.60 credit received - $0.12 debit paid = $0.48 profit)
+
+Type	Symbol	Option	Alert Date	Entry Date	Reference Price	Position Status	Closed Date
+Bull Put Spread	WPM	See Below	11/15/21	11/08/21	$41.37	Closed
+11/15/21
+Entry Order:
+Sell To Open WPM NOV 41 PUT
+Buy To Open WPM NOV 40 PUT
+@ 0.60 CR, LIMIT ORDER
+Good for the week
+Credit Received	Margin Required	ROI
+$60	$40	150%
+
+Expiration Date: November 19, 2021
+
+Actual Entry Price: 0.60 CR
+
+Outcome: This position was closed at $0.12 Debit for a nice profit. ($0.60 credit received - $0.12 debit paid = $0.48 profit)
+
+Type	Symbol	Option	Alert Date	Entry Date	Reference Price	Position Status	Closed Date
+Bull Put Spread	ABT	See Below	11/01/21	10/04/21	$121.81	Closed
+11/01/21
+Entry Order:
+Sell To Open ABT NOV 125 PUT
+Buy To Open ABT NOV 120 PUT
+@ 2.50 CR, LIMIT ORDER
+Good for the week
+Credit Received	Margin Required	ROI
+$275	$225	122%
+
+Expiration Date: November 19, 2021
+
+Actual Entry Price: 2.75 CR
+
+Outcome: This position was closed at $0.55 Debit for a nice profit. ($2.75 credit received - $0.55 debit paid = $2.20 profit)
+
+Type	Symbol	Option	Alert Date	Entry Date	Reference Price	Position Status	Closed Date
+Bull Put Spread	ADI	See Below	11/01/21	10/11/21	$167.37	Closed
+11/01/21
+Entry Order:
+Sell To Open ADI NOV 170 PUT
+Buy To Open ADI NOV 165 PUT
+@ 3.00 CR, LIMIT ORDER
+Good for the week
+Credit Received	Margin Required	ROI
+$300	$200	150%
+
+Expiration Date: November 19, 2021
+
+Actual Entry Price: 3.00 CR
+
+Outcome: This position was closed at $0.60 Debit for a nice profit. ($3.00 credit received - $0.60 debit paid = $2.40 profit)
+
+Type	Symbol	Option	Alert Date	Entry Date	Reference Price	Position Status	Closed Date
+Bull Put Spread	NVDA	See Below	11/01/21	10/11/21	$207.42	Closed
+11/01/21
+Entry Order:
+Sell To Open NVDA NOV 210 PUT
+Buy To Open NVDA NOV 205 PUT
+@ 2.50 CR, LIMIT ORDER
+Good for the week
+Credit Received	Margin Required	ROI
+$300	$200	150%
+
+Expiration Date: November 19, 2021
+
+Actual Entry Price: 3.00 CR
+
+Outcome: This position was closed at $0.60 Debit for a nice profit. ($3.00 credit received - $0.60 debit paid = $2.40 profit)
+
+Type	Symbol	Option	Alert Date	Entry Date	Reference Price	Position Status	Closed Date
+Bull Put Spread	CCJ	See Below	10/25/21	10/04/21	$20.76	Closed
+10/25/21
+Entry Order:
+Sell To Open CCJ NOV 21 PUT
+Buy To Open CCJ NOV 20 PUT
+@ 0.50 CR, LIMIT ORDER
+Good for the week
+Credit Received	Margin Required	ROI
+$51	$49	104%
+
+Expiration Date: November 19, 2021
+
+Actual Entry Price: 0.51 CR
+
+Outcome: This position was closed at $0.09 Debit for a nice profit. ($0.51 credit received - $0.09 debit paid = $0.42 profit)
+
+Type	Symbol	Option	Alert Date	Entry Date	Reference Price	Position Status	Closed Date
+Bull Put Spread	GDX	See Below	10/25/21	9/27/21	$30.55	Closed
+10/25/21
+Entry Order:
+Sell To Open GDX NOV 31 PUT
+Buy To Open GDX NOV 30 PUT
+@ 0.50 CR, LIMIT ORDER
+Good for the week
+Credit Received	Margin Required	ROI
+$53	$47	113%
+
+Expiration Date: November 19, 2021
+
+Actual Entry Price: 0.53 CR
+
+Outcome: This position was closed at $0.11 Debit for a nice profit. ($0.53 credit received - $0.11 debit paid = $0.42 profit)
+
+Type	Symbol	Option	Alert Date	Entry Date	Reference Price	Position Status	Closed Date
+Bull Put Spread	MARA	See Below	10/25/21	10/18/21	$39.49	Closed
+10/25/21
+Entry Order:
+Sell To Open MARA NOV 40 PUT
+Buy To Open MARA NOV 39 PUT
+@ 0.60 CR, LIMIT ORDER
+Good for the week
+Credit Received	Margin Required	ROI
+$60	$40	150%
+
+Expiration Date: November 19, 2021
+
+Actual Entry Price: 0.60 CR
+
+Outcome: This position was closed at $0.12 Debit for a nice profit. ($0.60 credit received - $0.12 debit paid = $0.48 profit)
+
+Type	Symbol	Option	Alert Date	Entry Date	Reference Price	Position Status	Closed Date
+Bull Put Spread	AMD	See Below	10/18/21	9/20/21	$105.20	Closed
+10/18/21
+Entry Order:
+Sell To Open AMD OCT 105 PUT
+Buy To Open AMD OCT 100 PUT
+@ 2.50 CR, LIMIT ORDER
+Good for the week
+Credit Received	Margin Required	ROI
+$250	$250	100%
+
+Expiration Date: October 15, 2021
+
+Actual Entry Price: 2.50 CR
+
+Outcome: This position was closed at $0.50 Debit for a nice profit. ($2.50 credit received - $0.50 debit paid = $2.00 profit)
+
+Type	Symbol	Option	Alert Date	Entry Date	Reference Price	Position Status	Closed Date
+Bull Put Spread	GOLD	See Below	10/18/21	9/13/21	$20.30	Closed
+10/18/21
+Entry Order:
+Sell To Open GOLD OCT 21 PUT
+Buy To Open GOLD OCT 20 PUT
+@ 0.60 CR, LIMIT ORDER
+Good for the week
+Credit Received	Margin Required	ROI
+$60	$40	150%
+
+Expiration Date: October 15, 2021
+
+Actual Entry Price: 0.63 CR
+
+Outcome: This position was closed at the maximum loss.
+
+Type	Symbol	Option	Alert Date	Entry Date	Reference Price	Position Status	Closed Date
+Bull Put Spread	KO	See Below	10/18/21	9/07/21	$55.65	Closed
+10/18/21
+Entry Order:
+Sell To Open KO OCT 57.50 PUT
+Buy To Open KO OCT 55 PUT
+@ 1.50 CR, LIMIT ORDER
+Good for the week
+Credit Received	Margin Required	ROI
+$150	$100	150%
+
+Expiration Date: October 15, 2021
+
+Actual Entry Price: 1.50 CR
+
+Outcome: This position was closed at the maximum loss.
+
+Type	Symbol	Option	Alert Date	Entry Date	Reference Price	Position Status	Closed Date
+Bull Put Spread	PAAS	See Below	10/18/21	9/13/21	$26.62	Closed
+10/18/21
+Entry Order:
+Sell To Open PAAS OCT 27 PUT
+Buy To Open PAAS OCT 26 PUT
+@ 0.60 CR, LIMIT ORDER
+Good for the week
+Credit Received	Margin Required	ROI
+$60	$40	150%
+
+Expiration Date: October 15, 2021
+
+Actual Entry Price: 0.60 CR
+
+Outcome: This position was closed at the maximum loss.
+
+Type	Symbol	Option	Alert Date	Entry Date	Reference Price	Position Status	Closed Date
+Bull Put Spread	PENN	See Below	10/18/21	9/27/21	$74.00	Closed
+10/18/21
+Entry Order:
+Sell To Open PENN OCT 75 PUT
+Buy To Open PENN OCT 70 PUT
+@ 2.50 CR, LIMIT ORDER
+Good for the week
+Credit Received	Margin Required	ROI
+$257	$243	106%
+
+Expiration Date: October 15, 2021
+
+Actual Entry Price: 2.57 CR
+
+Outcome: This position was closed at $0.51 Debit for a nice profit. ($2.57 credit received - $0.51 debit paid = $2.06 profit)
+
+Type	Symbol	Option	Alert Date	Entry Date	Reference Price	Position Status	Closed Date
+Bull Put Spread	TJX	See Below	10/18/21	9/13/21	$71.07	Closed
+10/18/21
+Entry Order:
+Sell To Open TJX OCT 72.50 PUT
+Buy To Open TJX OCT 70 PUT
+@ 1.50 CR, LIMIT ORDER
+Good for the week
+Credit Received	Margin Required	ROI
+$150	$100	150%
+
+Expiration Date: October 15, 2021
+
+Actual Entry Price: 1.50 CR
+
+Outcome: This position was closed at the maximum loss.
+
+Type	Symbol	Option	Alert Date	Entry Date	Reference Price	Position Status	Closed Date
+Bull Put Spread	UA	See Below	10/18/21	9/20/21	$19.61	Closed
+10/18/21
+Entry Order:
+Sell To Open UA OCT 20 PUT
+Buy To Open UA OCT 17.50 PUT
+@ 1.25 CR, LIMIT ORDER
+Good for the week
+Credit Received	Margin Required	ROI
+$125	$125	100%
+
+Expiration Date: October 15, 2021
+
+Actual Entry Price: 1.25 CR
+
+Outcome: This position was closed at the maximum loss.
+
+Type	Symbol	Option	Alert Date	Entry Date	Reference Price	Position Status	Closed Date
+Bull Put Spread	KL	See Below	10/11/21	9/27/21	$41.68	Closed
+10/11/21
+Entry Order:
+Sell To Open KL OCT 45 PUT
+Buy To Open KL OCT 40 PUT
+@ 3.00 CR, LIMIT ORDER
+Good for the week
+Credit Received	Margin Required	ROI
+$315	$185	170%
+
+Expiration Date: October 15, 2021
+
+Actual Entry Price: 3.15 CR
+
+Outcome: This position was closed at $1.30 Debit for a nice profit. ($3.15 credit received - $1.30 debit paid = $1.85 profit)
+
+Type	Symbol	Option	Alert Date	Entry Date	Reference Price	Position Status	Closed Date
+Bull Put Spread	BAC	See Below	10/04/21	9/20/21	$40.27	Closed
+10/04/21
+Entry Order:
+Sell To Open BAC OCT 41 PUT
+Buy To Open BAC OCT 40 PUT
+@ 0.60 CR, LIMIT ORDER
+Good for the week
+Credit Received	Margin Required	ROI
+$60	$40	150%
+
+Expiration Date: October 15, 2021
+
+Actual Entry Price: 0.60 CR
+
+Outcome: This position was closed at $0.13 Debit for a nice profit. ($0.60 credit received - $0.13 debit paid = $0.47 profit)
+
+Type	Symbol	Option	Alert Date	Entry Date	Reference Price	Position Status	Closed Date
+Bull Put Spread	AXP	See Below	9/20/21	8/16/21	$171.36	Closed
+09/20/21
+Entry Order:
+Sell To Open AXP SEPT 170 PUT
+Buy To Open AXP SEPT 165 PUT
+@ 2.50 CR, LIMIT ORDER
+Good for the week
+Credit Received	Margin Required	ROI
+$250	$250	100%
+
+Expiration Date: September 17, 2021
+
+Actual Entry Price: 2.50 CR
+
+Outcome: This position expired at the maximum loss.
+
+Type	Symbol	Option	Alert Date	Entry Date	Reference Price	Position Status	Closed Date
+Bull Put Spread	GDX	See Below	9/20/21	8/02/21	$34.36	Closed
+09/20/21
+Entry Order:
+Sell To Open GDX SEPT 34 PUT
+Buy To Open GDX SEPT 33 PUT
+@ 0.50 CR, LIMIT ORDER
+Good for the week
+Credit Received	Margin Required	ROI
+$50	$50	100%
+
+Expiration Date: September 17, 2021
+
+Actual Entry Price: 0.50 CR
+
+Outcome: This position expired at the maximum loss.
+
+Type	Symbol	Option	Alert Date	Entry Date	Reference Price	Position Status	Closed Date
+Bull Put Spread	ROKU	See Below	9/20/21	8/23/21	$357.59	Closed
+09/20/21
+Entry Order:
+Sell To Open ROKU SEPT 360 PUT
+Buy To Open ROKU SEPT 355 PUT
+@ 2.60 CR, LIMIT ORDER
+Good for the week
+Credit Received	Margin Required	ROI
+$265	$235	113%
+
+Expiration Date: September 17, 2021
+
+Actual Entry Price: 2.65 CR
+
+Outcome: This position expired at the maximum loss.
+
+Type	Symbol	Option	Alert Date	Entry Date	Reference Price	Position Status	Closed Date
+Bull Put Spread	SBUX	See Below	9/20/21	8/16/21	$119.05	Closed
+09/20/21
+Entry Order:
+Sell To Open SBUX SEPT 120 PUT
+Buy To Open SBUX SEPT 115 PUT
+@ 2.50 CR, LIMIT ORDER
+Good for the week
+Credit Received	Margin Required	ROI
+$250	$250	100%
+
+Expiration Date: September 17, 2021
+
+Actual Entry Price: 2.50 CR
+
+Outcome: This position expired at the maximum loss.
+
+Type	Symbol	Option	Alert Date	Entry Date	Reference Price	Position Status	Closed Date
+Bull Put Spread	SLV	See Below	9/20/21	8/02/21	$23.38	Closed
+09/20/21
+Entry Order:
+Sell To Open SLV SEPT 24 PUT
+Buy To Open SLV SEPT 23 PUT
+@ 0.60 CR, LIMIT ORDER
+Good for the week
+Credit Received	Margin Required	ROI
+$60	$40	150%
+
+Expiration Date: September 17, 2021
+
+Actual Entry Price: 0.60 CR
+
+Outcome: This position expired at the maximum loss.
+
+Type	Symbol	Option	Alert Date	Entry Date	Reference Price	Position Status	Closed Date
+Bull Put Spread	TWTR	See Below	9/20/21	8/23/21	$64.82	Closed
+09/20/21
+Entry Order:
+Sell To Open TWTR SEPT 65 PUT
+Buy To Open TWTR SEPT 62.50 PUT
+@ 1.25 CR, LIMIT ORDER
+Good for the week
+Credit Received	Margin Required	ROI
+$125	$125	100%
+
+Expiration Date: September 17, 2021
+
+Actual Entry Price: 1.25 CR
+
+Outcome: This position expired at the maximum loss.
+
+Type	Symbol	Option	Alert Date	Entry Date	Reference Price	Position Status	Closed Date
+Bull Put Spread	UPS	See Below	9/20/21	8/09/21	$191.36	Closed
+09/20/21
+Entry Order:
+Sell To Open UPS SEPT 195 PUT
+Buy To Open UPS SEPT 190 PUT
+@ 3.00 CR, LIMIT ORDER
+Good for the week
+Credit Received	Margin Required	ROI
+$300	$200	150%
+
+Expiration Date: September 17, 2021
+
+Actual Entry Price: 3.00 CR
+
+Outcome: This position was closed at $3.63 Debit for a small loss. ($3.63 debit paid - $3.00 credit received = $0.63 loss)
+
+Type	Symbol	Option	Alert Date	Entry Date	Reference Price	Position Status	Closed Date
+Bull Put Spread	EQT	See Below	9/13/21	7/26/21	$18.75	Closed
+09/13/21
+Entry Order:
+Sell To Open EQT SEPT 19 PUT
+Buy To Open EQT SEPT 18 PUT
+@ 0.50 CR, LIMIT ORDER
+Good for the week
+Credit Received	Margin Required	ROI
+$50	$50	100%
+
+Expiration Date: September 17, 2021
+
+Actual Entry Price: 0.50 CR
+
+Outcome: This position was closed out at $0.10 Debit for a nice profit of $0.40. ($0.50 Credit received - $0.10 Debit paid = $0.40 profit)
