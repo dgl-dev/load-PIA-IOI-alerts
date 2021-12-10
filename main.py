@@ -44,8 +44,7 @@ parse_wrk_list
         j = i + 1
         while "Type" not in wrk_list[j]:
             # print(f"wrk_list[j]: {wrk_list[j]}")
-            wotab = wrk_list[j].replace('\t', ' ') # <<<<<< clear tabs
-            alert_buf.append(wotab)     # <<<<<
+            alert_buf.append(wrk_list[j])     # <<<<<
             j += 1
         process_alert(alert_buf)        # process one alert
         alert_buf = []
@@ -60,6 +59,7 @@ def main():
         for line in ra_args[0]:
             wrk_line = line.strip()  # git rid of nl
             if wrk_line != '':  # skip blank lines
+                wrk_line = wrk_line.replace('\t', '; ')      <<<< convert
                 wrk_list.append(wrk_line)
         print(f"\n wrk_list: {wrk_list}")
         parse_wrk_list(wrk_list)  # Understand alerts & create Alert objects
