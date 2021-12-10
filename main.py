@@ -8,20 +8,46 @@ import sys
 
 # Globals
 line_num = 0
-buf = []
+alert_buf = []
 prev_line = 0
-ra_args = [0, line_num, buf, prev_line]  # args for read_alert - file, line ct, buffer, prev_line position
 wrk_list = []  # list to hold lines read from file for processing
+ra_args = [0, line_num, alert_buf, wrk_list]     # args for read_alert - file, line ct, buffer, prev_line position
 
-def parse_wrk_list():
+def process_alert(alert_buf):
+    """
+Process ONE alert
+    @param alert_buf: collected lines for one alert
+    @type alert_buf: list
+    """
+    print(f"Alert Bufr: {alert_buf}")
+
+
+def parse_wrk_list(wrk_list):
     """
 parse_wrk_list
     Understand alerts & create Alert objects
     Arguments
-        ra_args : list
-            file, line ct, buffer, prev_line position
+        wrk_list : list
+            list containing the non-blank lines
     """
-    pass
+    # print(f"In parse_Wrk_list - wrk_list: {wrk_list}")
+    # Find hdr lines
+    hdr_line_indices = []
+    for i, line in enumerate(wrk_list):     # Iterate wrk_list
+        # print(f"\n line in parse_wrk_list: {line}")
+        if "Type" in line:      #hdr of new alert
+            hdr_line_indices.append(i)          # remember hdr indices
+    print(f"\n hdr_line_indices: {hdr_line_indices}")
+    alert_buf = []
+    # Process alerts
+    for i in hdr_line_indices:
+        j = i + 1
+        while "Type" not in wrk_list[j]:
+            # print(f"wrk_list[j]: {wrk_list[j]}")
+            alert_buf.append(wrk_list[j])
+            j += 1
+        process_alert(alert_buf)        # process one alert
+        alert_buf = []
 
 
 def main():
@@ -35,7 +61,7 @@ def main():
             if wrk_line != '':  # skip blank lines
                 wrk_list.append(wrk_line)
         print(f"\n wrk_list: {wrk_list}")
-        parse_wrk_list()  # Understand alerts & create Alert objects
+        parse_wrk_list(wrk_list)  # Understand alerts & create Alert objects
     else:
         print(f"Enter file name to process")
         sys.exit(1)
